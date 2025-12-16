@@ -1,1 +1,1 @@
-Documentação do desafio de QA
+Documentação do projeto de QA
